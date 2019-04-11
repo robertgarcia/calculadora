@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calc_btn_size">72dp</dimen>
+    <dimen name="calc_button_width">112dp</dimen>
+    <dimen name="calc_button_textSize">22sp</dimen>
+</resources>

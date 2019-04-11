@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="calc_input_height">64dp</dimen>
+    <dimen name="calc_btn_size">60dp</dimen>
+    <dimen name="calc_btn_width">96dp</dimen>
+    <dimen name="calc_vertical_margin">16dp</dimen>
+    <dimen name="calc_horizontal_margin">16dp</dimen>
+</resources>

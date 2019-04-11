@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="main_min_length">16</integer>
+    <integer name="main_input_textSize">44</integer>
+</resources>
